@@ -1,0 +1,29 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# ChromaDB
+maintenance_db/
+
+# Raw datasets
+data/raw/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

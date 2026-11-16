@@ -213,6 +213,23 @@ The processed dataset and trained models are included in this project repository
 - Add automated maintenance alerts and reporting.
 - Evaluate performance on additional engine degradation datasets.
 
----
+
+## Application Screenshots
+
+### 1. Predictive Maintenance Dashboard
+Displays engine selection, predicted Remaining Useful Life (RUL), and anomaly detection status.
+
+![IndusMind Dashboard](images/dashboard.png)
+
+### 2. Sensor Readings & Feature Importance
+Visualizes sensor behaviour and identifies the most influential features in the RUL prediction model.
+
+![Sensor Analysis](images/sensor readings.png)
+
+### 3. AI Maintenance Copilot
+An AI-powered assistant using RAG and Llama 3.2 to answer maintenance-related questions with engine context.
+
+![AI Maintenance Copilot](images/ai-copilot.png)
+
 
 **IndusMind | Predictive Maintenance + Machine Learning + Generative AI**

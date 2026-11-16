@@ -224,7 +224,7 @@ Displays engine selection, predicted Remaining Useful Life (RUL), and anomaly de
 ### 2. Sensor Readings & Feature Importance
 Visualizes sensor behaviour and identifies the most influential features in the RUL prediction model.
 
-![Sensor Analysis](images/sensor readings.png)
+![Sensor Analysis](images/sensor.png)
 
 ### 3. AI Maintenance Copilot
 An AI-powered assistant using RAG and Llama 3.2 to answer maintenance-related questions with engine context.
